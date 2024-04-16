@@ -3,7 +3,7 @@ Experiments with entropy and Artificial Intelligence
 
 
 **Overview**  
-This repository contains advanced Python scripts for statistical analysis that focus on Gaussian distributions, entropy measurements in geometric contexts, and analysis of centralized data with independent and identically distributed (iid) and non-independent and non-identically distributed (non-iid) characteristics. These tools were developed for data scientists and researchers looking to investigate complex statistical models and data behavior in a variety of scientific and technological contexts.
+This repository contains Python scripts for statistical analysis that focus on Gaussian distributions, entropy measurements in geometric contexts, and analysis of centralized data with independent and identically distributed (iid) and non-independent and non-identically distributed (non-iid) characteristics. These tools were developed for data scientists and researchers looking to investigate statistical models and data behavior in a variety of scientific and technological contexts.
 
 **Contents**  
 1. Gaussian analysis    
@@ -27,7 +27,7 @@ Description: Analyzes centralized data under the assumption that it is iid. This
 
 5. non-IID Federated Learning Distributed Data  
 File: non_IID_Fedlearning.ipynb  
-This project demonstrates the implementation of a federated learning system using PyTorch to train a Convolutional Neural Network (CNN) in a distributed environment. Training is carried out locally on several clients that do not share data among themselves (non-IID), using federated averaging to combine the local models into a robust global model.
+This project demonstrates the implementation of a federated learning system using PyTorch to train a Convolutional Neural Network (CNN) in a distributed environment. Training is carried out locally on several clients that do not share data among themselves non-IID, using federated averaging to combine the local models into a robust global model.
 
 **Getting Started**  
 To use these scripts:  
