@@ -7,11 +7,11 @@ This repository contains advanced Python scripts for statistical analysis that f
 
 **Contents**  
 1. Análise gaussiana  
-File: gaussian_analysis.py  
+File: gaussian_analysis.ipynb  
 Description: This script performs detailed analysis using Gaussian distributions. It includes functionality for fitting models to data, estimating parameters, and evaluating the statistical properties of Gaussian-based models.  
 
 2. Geographic analysis of entropy  
-File: geometric_analysis_of_entropy.py  
+File: geometric_analysis_of_entropy.ipynb  
 Description: Dedicated to the study of entropy within geometric data structures. This script calculates entropy measurements and explores their implications in data complexity and information theory.
 
 2.1 Here is a brief and straightforward description of each script within the directory (IDD datagen and non-IDD datagen):  
@@ -22,11 +22,11 @@ Description: Dedicated to the study of entropy within geometric data structures.
 * create_MNIST_datasets.py, create_MNIST_datasets1.py, create_MNIST_datasets2.py: These scripts generate customized MNIST datasets with potential variations in non-IID configurations or noise injections to mirror real-world data scenarios.
 
 3. IID Centralized Data  
-File: iid_centralized_data.py   
+File: iid_centralized_data.ipynb   
 Description: Analyzes centralized data under the assumption that it is iid. This script is useful for statistical inference, providing insights into data patterns and distribution without the influence of data correlations.
 
 5. non-IID Federated Learning Distributed Data  
-File: non_IID_Fedlearning.py  
+File: non_IID_Fedlearning.ipynb  
 This project demonstrates the implementation of a federated learning system using PyTorch to train a Convolutional Neural Network (CNN) in a distributed environment. Training is carried out locally on several clients that do not share data among themselves (non-IID), using federated averaging to combine the local models into a robust global model.
 
 **Getting Started**  
