@@ -1,7 +1,7 @@
 # Experiments-with-entropy-and-Artificial-Intelligence
 Experiments with entropy and Artificial Intelligence
 
-Overview
+Overview  
 This repository contains advanced Python scripts for statistical analysis focusing on Gaussian distributions, entropy measurements in a geometric context, and analysis of centralized data assuming independent and identically distributed (iid) characteristics. These tools are designed for researchers and data scientists looking to explore complex statistical models and data behavior in various scientific and engineering applications.
 
 Contents
