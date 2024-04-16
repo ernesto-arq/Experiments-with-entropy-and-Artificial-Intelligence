@@ -29,7 +29,7 @@ Description: Analyzes centralized data under the assumption that it is iid. This
 File: non_IID_Fedlearning.py  
 This project demonstrates the implementation of a federated learning system using PyTorch to train a Convolutional Neural Network (CNN) in a distributed environment. Training is carried out locally on several clients that do not share data among themselves (non-IID), using federated averaging to combine the local models into a robust global model.
 
-**Getting Started** 
+**Getting Started**  
 To use these scripts:  
 
 Clone the repository using git clone [repository-url].  
@@ -52,6 +52,7 @@ Fork the repository.
 
 **License**  
 This project is licensed under the MIT License - see the LICENSE file for details.  
+[MIT License](https://opensource.org/licenses/MIT)
 
 **Contact**  
 For any queries regarding this repository, please open an issue in the repository or contact the repository administrators directly.  
