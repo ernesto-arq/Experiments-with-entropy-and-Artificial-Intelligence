@@ -21,11 +21,11 @@ Description: Dedicated to the study of entropy within geometric data structures.
 * mnist_noniid.py: Facilitates the creation of non-IID data partitions for the MNIST dataset, aiding in algorithm testing across different data characteristics.  
 * create_MNIST_datasets.py, create_MNIST_datasets1.py, create_MNIST_datasets2.py: These scripts generate customized MNIST datasets with potential variations in non-IID configurations or noise injections to mirror real-world data scenarios.
 
-3. IID Centralized Data
+3. IID Centralized Data  
 File: iid_centralized_data.py   
 Description: Analyzes centralized data under the assumption that it is iid. This script is useful for statistical inference, providing insights into data patterns and distribution without the influence of data correlations.
 
-5. non-IID Federated Learning Distributed Data
+5. non-IID Federated Learning Distributed Data  
 File: non_IID_Fedlearning.py  
 This project demonstrates the implementation of a federated learning system using PyTorch to train a Convolutional Neural Network (CNN) in a distributed environment. Training is carried out locally on several clients that do not share data among themselves (non-IID), using federated averaging to combine the local models into a robust global model.
 
