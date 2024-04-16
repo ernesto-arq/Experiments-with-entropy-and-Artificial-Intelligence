@@ -6,7 +6,7 @@ Experiments with entropy and Artificial Intelligence
 This repository contains advanced Python scripts for statistical analysis that focus on Gaussian distributions, entropy measurements in geometric contexts, and analysis of centralized data with independent and identically distributed (iid) and non-independent and non-identically distributed (non-iid) characteristics. These tools were developed for data scientists and researchers looking to investigate complex statistical models and data behavior in a variety of scientific and technological contexts.
 
 **Contents**  
-1. Análise gaussiana  
+1. Gaussian analysis    
 File: gaussian_analysis.ipynb  
 Description: This script performs detailed analysis using Gaussian distributions. It includes functionality for fitting models to data, estimating parameters, and evaluating the statistical properties of Gaussian-based models.  
 
